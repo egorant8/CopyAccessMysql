@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigzkAcc_MYSQL", "VigzkAcc_MYSQL.csproj", "{64F79B08-CF78-42FC-B419-FB001CB9CDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64F79B08-CF78-42FC-B419-FB001CB9CDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F79B08-CF78-42FC-B419-FB001CB9CDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F79B08-CF78-42FC-B419-FB001CB9CDFD}.Debug|x86.ActiveCfg = Debug|x86
+		{64F79B08-CF78-42FC-B419-FB001CB9CDFD}.Debug|x86.Build.0 = Debug|x86
+		{64F79B08-CF78-42FC-B419-FB001CB9CDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F79B08-CF78-42FC-B419-FB001CB9CDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F79B08-CF78-42FC-B419-FB001CB9CDFD}.Release|x86.ActiveCfg = Release|x86
+		{64F79B08-CF78-42FC-B419-FB001CB9CDFD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5A909A7-A07A-478A-AE2C-40F6BEC1EFB0}
+	EndGlobalSection
+EndGlobal
